@@ -1129,6 +1129,8 @@ h1, h2, h3, p, li, a, button, summary {
   transform: rotate(-45deg);
 }
 .form-card {
+  width: 100%;
+  min-width: 0;
   padding: 30px;
   border: 1px solid rgba(255, 255, 255, .18);
   border-radius: 34px;
@@ -1425,7 +1427,18 @@ h1, h2, h3, p, li, a, button, summary {
   .why-card {
     grid-template-columns: 1fr;
     gap: 10px;
-    padding: 22px 0;
+    min-height: auto;
+    padding: 24px;
+    border-radius: 24px;
+  }
+  .why-card h3 {
+    max-width: 100%;
+    font-size: clamp(1.32rem, 6vw, 1.78rem);
+    line-height: 1.08;
+  }
+  .why-card p {
+    font-size: .98rem;
+    line-height: 1.52;
   }
   .problem-item {
     grid-template-columns: 1fr;
@@ -1478,7 +1491,30 @@ h1, h2, h3, p, li, a, button, summary {
   .faq {
     grid-template-columns: 1fr;
   }
+  .lead-section {
+    padding-block: 64px 72px;
+  }
+  .lead-section .wrap {
+    gap: 26px;
+    align-items: start;
+  }
   .lead-section h2 {
     max-width: none;
+  }
+  .form-card {
+    padding: 24px;
+    border-radius: 26px;
+  }
+  .form-card h3 {
+    font-size: 1.45rem;
+    line-height: 1.08;
+  }
+  .form-card p {
+    font-size: .92rem;
+  }
+  .field input,
+  .field select {
+    min-height: 50px;
+    font-size: 16px;
   }
 }
