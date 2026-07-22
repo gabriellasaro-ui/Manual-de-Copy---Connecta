@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Marketing e Vendas para Imobili&aacute;rias | Connecta Group</title>
+  <meta name="description" content="Estrat&eacute;gia, copy, tr&aacute;fego, CRM e processo comercial para imobili&aacute;rias venderem com mais previsibilidade e menos depend&ecirc;ncia dos portais.">
+  <meta property="og:title" content="Marketing e Vendas para Imobili&aacute;rias | Connecta Group">
+  <meta property="og:description" content="Do an&uacute;ncio &agrave; visita: a Connecta conecta capta&ccedil;&atilde;o, atendimento e fechamento para imobili&aacute;rias.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/static/hero-pc.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="/static/logo-480.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/lp.css">
+</head>
+<body>
+  <a class="skip-link" href="#lead">Ir para o diagn&oacute;stico</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#top" aria-label="Connecta Group">
+        <img src="/static/logo-marca-branca.png" alt="">
+        <span><b>Connecta Group</b><small>Imobili&aacute;rio conectado</small></span>
+      </a>
+      <nav class="nav-menu" aria-label="Navega&ccedil;&atilde;o">
+        <a href="#diagnostico">Diagn&oacute;stico</a>
+        <a href="#metodo">M&eacute;todo</a>
+        <a href="#entregas">Entregas</a>
+        <a href="#lead">Contato</a>
+      </nav>
+      <a class="btn btn-light" href="#lead" data-cta="nav-diagnostico">Diagn&oacute;stico gratuito</a>
+    </div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="hero-scrim" aria-hidden="true"></div>
+    <div class="wrap hero-inner">
+      <div class="hero-content">
+        <p class="eyebrow">Para imobili&aacute;rias, corretores e incorporadoras</p>
+        <h1 class="hero-title">Menos portal. <span class="accent">Mais visita qualificada.</span></h1>
+        <p class="hero-sub">A Connecta organiza a rota entre an&uacute;ncio, lead, WhatsApp, visita e proposta. Sua imobili&aacute;ria para de disputar curioso e passa a vender com funil e processo.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary btn-lg" href="#lead" data-cta="hero-diagnostico">Quero meu diagn&oacute;stico gratuito</a>
+          <a class="btn btn-ghost btn-lg" href="#metodo" data-cta="hero-metodo">Ver o M&eacute;todo CONNECTA</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="marquee" aria-label="Fundamentos Connecta para imobili&aacute;rias">
+    <div class="marquee-track">
+      <div class="marquee-group">
+        <span class="mq-pill">Menos depend&ecirc;ncia dos portais</span>
+        <span class="mq-pill">Leads mais qualificados</span>
+        <span class="mq-pill">Atendimento com follow-up</span>
+        <span class="mq-pill">An&uacute;ncio ligado ao CRM</span>
+        <span class="mq-pill">Visita como indicador central</span>
+        <span class="mq-pill">Copy para im&oacute;veis e bairros</span>
+        <span class="mq-pill">M&eacute;todo CONNECTA&trade;</span>
+      </div>
+      <div class="marquee-group" aria-hidden="true">
+        <span class="mq-pill">Menos depend&ecirc;ncia dos portais</span>
+        <span class="mq-pill">Leads mais qualificados</span>
+        <span class="mq-pill">Atendimento com follow-up</span>
+        <span class="mq-pill">An&uacute;ncio ligado ao CRM</span>
+        <span class="mq-pill">Visita como indicador central</span>
+        <span class="mq-pill">Copy para im&oacute;veis e bairros</span>
+        <span class="mq-pill">M&eacute;todo CONNECTA&trade;</span>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section class="section section-light" id="diagnostico">
+      <div class="wrap">
+        <div class="problem-layout">
+          <div class="problem-copy">
+            <p class="kicker">O problema real</p>
+            <h2>O lead imobili&aacute;rio n&atilde;o est&aacute; ruim. Ele est&aacute; mal conduzido.</h2>
+            <p class="lead">Quando capta&ccedil;&atilde;o, atendimento e proposta n&atilde;o seguem a mesma rota, o lead entra caro, esfria r&aacute;pido e vira culpa do tr&aacute;fego.</p>
+          </div>
+          <div class="problem-list">
+            <article class="problem-item"><span>01</span><div><h3>Portal virou depend&ecirc;ncia.</h3><p>ZAP, VivaReal e impulsionamento ajudam, mas n&atilde;o podem ser o &uacute;nico motor de venda.</p></div></article>
+            <article class="problem-item"><span>02</span><div><h3>Atendimento sem cad&ecirc;ncia.</h3><p>Cada corretor responde de um jeito e o follow-up depende de mem&oacute;ria.</p></div></article>
+            <article class="problem-item"><span>03</span><div><h3>Oferta sem contexto.</h3><p>O cliente n&atilde;o compra metragem. Ele compra decis&atilde;o, bairro, seguran&ccedil;a e timing.</p></div></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section method-section" id="metodo">
+      <div class="wrap">
+        <div class="section-head wide">
+          <p class="kicker">M&eacute;todo CONNECTA</p>
+          <h2>Um caminho para o lead virar visita, proposta e venda.</h2>
+          <p class="lead">A Connecta organiza oferta, capta&ccedil;&atilde;o, p&aacute;gina, WhatsApp, CRM e rotina dos corretores para a imobili&aacute;ria parar de tratar todo lead como curioso.</p>
+        </div>
+        <div class="method-experience">
+          <div class="method-copy">
+            <span class="method-label">CONNECTA imobili&aacute;rio</span>
+            <div>
+              <h3>Do clique &agrave; visita.</h3>
+              <p>O m&eacute;todo transforma capta&ccedil;&atilde;o em processo: o cliente chega mais preparado, o corretor sabe o pr&oacute;ximo passo e a gest&atilde;o enxerga onde a venda trava.</p>
+            </div>
+            <div class="method-mini" aria-label="Resultado do m&eacute;todo">
+              <span><b>CRM</b>Com follow-up</span>
+              <span><b>LP</b>Por oferta</span>
+              <span><b>ROI</b>Por carteira</span>
+            </div>
+          </div>
+          <div class="method-steps">
+            <article class="method-row"><b>C</b><div><h3>Conhecer</h3><p>Carteira, ticket, regi&atilde;o, canais, corretores, CRM e hist&oacute;rico de visitas.</p></div></article>
+            <article class="method-row"><b>O</b><div><h3>Organizar</h3><p>Separar produto, bairro, p&uacute;blico e oferta para parar de anunciar tudo igual.</p></div></article>
+            <article class="method-row"><b>N</b><div><h3>Navegar</h3><p>Montar a rota do lead: an&uacute;ncio, LP, WhatsApp, corretor, visita e proposta.</p></div></article>
+            <article class="method-row"><b>N</b><div><h3>Nutrir</h3><p>Criar cad&ecirc;ncia para n&atilde;o perder quem ainda est&aacute; comparando bairro, pre&ccedil;o e timing.</p></div></article>
+            <article class="method-row"><b>E</b><div><h3>Executar</h3><p>Campanhas, p&aacute;ginas e scripts alinhados ao tipo de im&oacute;vel e perfil de compra.</p></div></article>
+            <article class="method-row"><b>C</b><div><h3>Converter</h3><p>Transformar interesse em conversa qualificada, agenda, visita e proposta.</p></div></article>
+            <article class="method-row"><b>T</b><div><h3>Transformar</h3><p>Usar obje&ccedil;&otilde;es e dados comerciais para melhorar oferta, p&aacute;gina e atendimento.</p></div></article>
+            <article class="method-row"><b>A</b><div><h3>Acelerar</h3><p>Escalar verba nos im&oacute;veis, bairros e canais que geram venda de verdade.</p></div></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-white" id="entregas">
+      <div class="wrap">
+        <div class="section-head wide">
+          <p class="kicker">O que entra no sistema</p>
+          <h2>As pe&ccedil;as certas para n&atilde;o depender s&oacute; de portal.</h2>
+          <p class="lead">Portal pode ajudar, mas n&atilde;o pode ser o &uacute;nico motor. A Connecta cria rota pr&oacute;pria para gerar demanda, qualificar atendimento e medir o que chega em visita.</p>
+        </div>
+        <div class="connect-map">
+          <div class="connect-map-main">
+            <span>Do an&uacute;ncio &agrave; visita</span>
+            <h3>Menos lead frio. Mais rota comercial.</h3>
+            <p>O cliente n&atilde;o chega pronto porque clicou. Ele precisa entender o im&oacute;vel, confiar na regi&atilde;o, ser conduzido no WhatsApp e receber o pr&oacute;ximo passo sem atrito.</p>
+          </div>
+          <div class="connect-lines">
+            <article class="connect-line"><span>01</span><h3>Oferta por im&oacute;vel e bairro</h3><p>Argumentos que vendem contexto, localiza&ccedil;&atilde;o, timing, seguran&ccedil;a e decis&atilde;o, n&atilde;o s&oacute; metragem.</p></article>
+            <article class="connect-line"><span>02</span><h3>Capta&ccedil;&atilde;o com filtro</h3><p>An&uacute;ncio e landing page deixam claro o perfil do produto antes do corretor gastar tempo.</p></article>
+            <article class="connect-line"><span>03</span><h3>WhatsApp com cad&ecirc;ncia</h3><p>Script, follow-up e CRM ajudam o corretor a conduzir a conversa sem depender de mem&oacute;ria.</p></article>
+            <article class="connect-line"><span>04</span><h3>Indicador de venda</h3><p>Visita, proposta, taxa de resposta e CAC mostram o que merece verba e o que precisa ajuste.</p></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-light" id="virada">
+      <div class="wrap">
+        <div class="section-head wide">
+          <p class="kicker">A virada</p>
+          <h2>An&uacute;ncio n&atilde;o vende im&oacute;vel sozinho. Sistema vende.</h2>
+        </div>
+        <div class="shift-split">
+          <div class="shift-copy">
+            <strong>Curioso n&atilde;o pode consumir a equipe inteira.</strong>
+            <p>A virada acontece quando a campanha prepara o atendimento. A LP qualifica, o WhatsApp conduz, o CRM lembra e o corretor sabe qual pr&oacute;ximo passo tomar.</p>
+          </div>
+          <div class="shift-proof">
+            <article><span>1</span><div><h3>Antes: lead entra sem contexto.</h3><p>O corretor precisa explicar tudo do zero e ainda competir com dezenas de op&ccedil;&otilde;es.</p></div></article>
+            <article><span>2</span><div><h3>Depois: a oferta chega filtrada.</h3><p>O cliente entende bairro, valor, condi&ccedil;&atilde;o, perfil e motivo para avan&ccedil;ar.</p></div></article>
+            <article><span>3</span><div><h3>Gest&atilde;o: visita vira indicador.</h3><p>A imobili&aacute;ria sabe quais campanhas geram atendimento bom, visita marcada e proposta.</p></div></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-white" id="porque">
+      <div class="wrap">
+        <div class="section-head wide">
+          <p class="kicker">Por que Connecta</p>
+          <h2>Menos depend&ecirc;ncia. Mais controle sobre a venda.</h2>
+        </div>
+        <div class="why-grid">
+          <div class="why-main">
+            <h3>A venda imobili&aacute;ria precisa de processo.</h3>
+            <p>A Connecta aproxima marketing da rotina dos corretores para a gest&atilde;o saber onde investir, onde ajustar e quais ofertas merecem mais aten&ccedil;&atilde;o.</p>
+          </div>
+          <div class="why-points">
+            <article class="why-card"><span>01</span><h3>Oferta por produto</h3><p>Cada im&oacute;vel, loteamento ou carteira precisa de argumento pr&oacute;prio, n&atilde;o campanha gen&eacute;rica.</p></article>
+            <article class="why-card"><span>02</span><h3>Atendimento com padr&atilde;o</h3><p>Script, cad&ecirc;ncia e CRM reduzem lead perdido por demora, esquecimento ou abordagem fraca.</p></article>
+            <article class="why-card"><span>03</span><h3>Indicador que importa</h3><p>Clique n&atilde;o paga boleto. Visita, proposta, CAC e venda mostram se a opera&ccedil;&atilde;o funciona.</p></article>
+            <article class="why-card"><span>04</span><h3>Canais al&eacute;m do portal</h3><p>Portais continuam na mesa, mas a imobili&aacute;ria ganha rota pr&oacute;pria e mais controle da demanda.</p></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-light" id="faq">
+      <div class="wrap">
+        <div class="section-head center">
+          <p class="kicker">D&uacute;vidas comuns</p>
+          <h2>Perguntas frequentes</h2>
+        </div>
+      </div>
+      <div class="faq">
+        <details><summary>O diagn&oacute;stico &eacute; gratuito mesmo?</summary><p>Sim. A primeira conversa serve para entender carteira, canais, atendimento e gargalos entre lead, visita, proposta e venda.</p></details>
+        <details><summary>A Connecta substitui ZAP, VivaReal ou OLX?</summary><p>N&atilde;o necessariamente. A proposta &eacute; reduzir depend&ecirc;ncia e criar canais pr&oacute;prios para que os portais n&atilde;o sejam o &uacute;nico motor de demanda.</p></details>
+        <details><summary>Voc&ecirc;s mexem no atendimento dos corretores?</summary><p>Sim. Se o gargalo estiver no atendimento, entram script, cad&ecirc;ncia, CRM, follow-up e indicadores por etapa comercial.</p></details>
+        <details><summary>Serve para imobili&aacute;ria pequena?</summary><p>Serve quando existe produto, carteira ou regi&atilde;o com potencial e disposi&ccedil;&atilde;o para organizar processo. O plano muda conforme estrutura e verba.</p></details>
+        <details><summary>Quanto tempo leva para ver melhoria?</summary><p>A leitura inicial costuma aparecer nas primeiras semanas. Resultado comercial depende de volume de leads, ciclo de compra, carteira e velocidade do atendimento.</p></details>
+        <details><summary>Voc&ecirc;s garantem venda de im&oacute;vel?</summary><p>N&atilde;o prometemos milagre. O compromisso &eacute; construir um processo mais claro para gerar demanda qualificada, medir etapas e melhorar convers&atilde;o.</p></details>
+      </div>
+    </section>
+
+    <section class="lead-section" id="lead">
+      <div class="wrap">
+        <div>
+          <p class="kicker">Pr&oacute;ximo passo</p>
+          <h2>Vamos achar onde sua imobili&aacute;ria est&aacute; perdendo venda?</h2>
+          <p class="lead">Preencha e nosso time analisa seu cen&aacute;rio para apontar oportunidades de funil, capta&ccedil;&atilde;o e atendimento.</p>
+          <ul class="lead-points">
+            <li>Leitura do seu funil de capta&ccedil;&atilde;o e atendimento.</li>
+            <li>Diagn&oacute;stico dos gargalos entre lead, visita e proposta.</li>
+            <li>Rota inicial para vender com mais previsibilidade.</li>
+          </ul>
+        </div>
+        <div class="form-card">
+          <span class="form-badge">Diagn&oacute;stico gratuito</span>
+          <h3>Fale com um estrategista</h3>
+          <p>Leva 1 minuto. Depois disso, abrimos seu WhatsApp com as informa&ccedil;&otilde;es organizadas.</p>
+          <form class="lead-form" data-wa="5599999999999" data-origin="LP Imobiliaria" novalidate>
+            <div class="field"><label for="i-nome">Nome completo *</label><input id="i-nome" name="Nome" type="text" required placeholder="Seu nome"></div>
+            <div class="form-row">
+              <div class="field"><label for="i-wpp">WhatsApp *</label><input id="i-wpp" name="WhatsApp" type="tel" required placeholder="(00) 00000-0000"></div>
+              <div class="field"><label for="i-email">E-mail *</label><input id="i-email" name="E-mail" type="email" required placeholder="voce@empresa.com"></div>
+            </div>
+            <div class="field">
+              <label for="i-tipo">Seu perfil *</label>
+              <select id="i-tipo" name="Perfil" required>
+                <option value="" disabled selected>Selecione</option>
+                <option>Imobili&aacute;ria</option>
+                <option>Corretor aut&ocirc;nomo</option>
+                <option>Incorporadora</option>
+                <option>Loteadora / Urbanizadora</option>
+                <option>Construtora</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="i-fat">Faturamento mensal *</label>
+              <select id="i-fat" name="Faturamento mensal" required>
+                <option value="" disabled selected>Selecione uma faixa</option>
+                <option>At&eacute; R$ 20 mil</option>
+                <option>R$ 20 mil a R$ 50 mil</option>
+                <option>R$ 50 mil a R$ 100 mil</option>
+                <option>R$ 100 mil a R$ 500 mil</option>
+                <option>Acima de R$ 500 mil</option>
+              </select>
+            </div>
+            <button class="btn btn-primary btn-lg btn-block" type="submit" data-cta="form-submit">Quero meu diagn&oacute;stico</button>
+            <p class="form-note">Seus dados n&atilde;o s&atilde;o compartilhados.</p>
+            <div class="form-ok">Recebemos seus dados. Abrimos seu WhatsApp para concluir.</div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <a class="brand" href="#top"><img src="/static/logo-marca-branca.png" alt=""><span><b>Connecta Group</b></span></a>
+      <div class="footer-links"><a href="https://wa.me/5599999999999" data-cta="foot-whatsapp">WhatsApp</a></div>
+      <span>&copy; <span data-year>2026</span> Connecta Group.</span>
+    </div>
+  </footer>
+
+  <script src="/static/tracking.js" defer></script>
+</body>
+</html>

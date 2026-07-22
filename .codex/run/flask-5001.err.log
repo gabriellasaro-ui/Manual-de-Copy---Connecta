@@ -1,0 +1,40 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+127.0.0.1 - - [12/Jul/2026 19:48:27] "GET /geral HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:48:30] "GET /imobiliaria HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:48:43] "GET /geral HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:48:43] "GET /static/lp.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:48:43] "GET /static/hero-pc.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:48:43] "GET /static/logo-marca-branca.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:48:43] "GET /static/tracking.js HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:48:50] "GET /imobiliaria HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:48:50] "GET /static/lp.css HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:48:50] "GET /static/logo-marca-branca.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:48:50] "GET /static/tracking.js HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:49:30] "HEAD /geral HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:33] "HEAD /imobiliaria HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /geral?audit=1783896598057 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /static/lp.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /static/logo-marca-branca.png HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /static/tracking.js HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /static/hero-mobile.png HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:58] "GET /static/logo-480.png HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /static/hero-pc.png HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /geral?audit=1783896599329 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /static/lp.css HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /static/logo-marca-branca.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /static/tracking.js HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:49:59] "GET /static/hero-pc.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /static/hero-mobile.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /imobiliaria?audit=1783896600429 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /static/lp.css HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /static/logo-marca-branca.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /static/tracking.js HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:00] "GET /static/hero-mobile.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /static/hero-pc.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /imobiliaria?audit=1783896601595 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /static/lp.css HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /static/tracking.js HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /static/logo-marca-branca.png HTTP/1.1" 304 -
+127.0.0.1 - - [12/Jul/2026 19:50:01] "GET /static/hero-pc.png HTTP/1.1" 304 -

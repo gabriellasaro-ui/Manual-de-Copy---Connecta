@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "title": "Manual de Copy e Posicionamento — Connecta Group",
+    "subtitle": "Guia oficial de marca, metodologia e comunicação",
+    "version": "1.1",
+    "language": "pt-BR",
+    "last_updated": "2026-07-10",
+    "purpose": "Documento de referência oficial da Connecta Group para orientar a produção de qualquer texto e peça visual da marca — anúncios, redes sociais, site, propostas comerciais, e-mails, scripts de vendas e conteúdos institucionais. Criado para alimentar ferramentas de Inteligência Artificial e servir de fundação para o Branding Book completo e para a Landing Page institucional, garantindo consistência de tom, identidade visual e metodologia em qualquer material gerado.",
+    "how_ai_should_use_this": [
+      "Leia este documento inteiro antes de gerar qualquer copy ou peça visual para a Connecta Group.",
+      "Priorize sempre esta ordem: Posicionamento > Método CONNECTA™ > Filosofia de Copy > Identidade Visual > Tom de Voz > Vocabulário > Diretrizes por Canal.",
+      "Nunca prometa resultados garantidos, milagrosos, ou imediatos — isso contradiz os valores da marca.",
+      "Toda copy final deve responder 'sim' à Pergunta-Guia: 'Essa mensagem aproxima o cliente de uma decisão?'.",
+      "Use as diretrizes de canal e as estruturas de copy como ponto de partida, não como camisa de força — adapte ao contexto mantendo o tom de voz.",
+      "Use a paleta, a tipografia e as regras de logo da Identidade Visual em qualquer peça, LP ou material derivado deste manual — nunca introduza cores, fontes ou versões de logo fora do especificado.",
+      "Use o Checklist Antes de Publicar como validação final de qualquer texto gerado."
+    ]
+  },
+  "brand_essence": {
+    "epigraph": "Marketing sem estratégia gera movimento. Estratégia conectada gera crescimento.",
+    "statement": "A Connecta Group nasceu de uma convicção simples: toda empresa pode vender mais. Mas vender mais não depende apenas de anúncios, redes sociais ou um bom vendedor. Depende de estratégia.",
+    "paragraphs": [
+      "Empresas crescem quando marketing, vendas, processos e gestão trabalham conectados. É exatamente isso que fazemos.",
+      "Conectamos negócios ao seu verdadeiro potencial de crescimento.",
+      "Não acreditamos em fórmulas prontas. Não acreditamos em soluções milagrosas. Acreditamos em método. Acreditamos em processos. Acreditamos em execução.",
+      "E, acima de tudo, acreditamos que resultados são consequência de decisões inteligentes.",
+      "Nossa missão não é apenas entregar serviços. Nossa missão é construir empresas mais fortes, mais organizadas e mais lucrativas."
+    ]
+  },
+  "mission": "Conectar empresas às estratégias que impulsionam crescimento sustentável, previsibilidade comercial e aumento de faturamento.",
+  "vision": "Ser referência nacional em consultoria estratégica de marketing e vendas, reconhecida por transformar empresas através de método, inteligência e execução.",
+  "values": [
+    "Estratégia antes da execução.",
+    "Resultados acima de vaidade.",
+    "Transparência em cada decisão.",
+    "Evolução contínua.",
+    "Relacionamentos duradouros.",
+    "Compromisso com o crescimento do cliente.",
+    "Dados acima de achismos.",
+    "Execução com excelência."
+  ],
+  "beliefs": {
+    "intro": "Não existem empresas sem potencial. Existem empresas sem direção.",
+    "statements": [
+      "Marketing não resolve processos ruins.",
+      "Anúncios não resolvem posicionamentos fracos.",
+      "Leads não resolvem atendimento ruim.",
+      "Tecnologia não resolve falta de estratégia."
+    ],
+    "closing": [
+      "Por isso, antes de acelerar, organizamos.",
+      "Antes de investir, planejamos.",
+      "Antes de vender, entendemos."
+    ]
+  },
+  "method": {
+    "name": "Método CONNECTA™",
+    "intro": "Todo cliente que entra na Connecta percorre um processo estruturado. Não vendemos ações isoladas. Aplicamos um método: um caminho validado para transformar empresas em negócios mais competitivos.",
+    "concept_note": "O método foi pensado para formar uma jornada lógica e fácil de memorizar, do diagnóstico inicial à escala previsível do crescimento.",
+    "steps": [
+      {
+        "letter": "C",
+        "name": "Conhecer",
+        "quote": "Toda estratégia começa pelo entendimento.",
+        "description": "Antes de propor qualquer solução, mergulhamos no negócio.",
+        "focus_areas": ["A empresa", "O mercado", "Os concorrentes", "Os diferenciais", "Os processos", "O histórico comercial", "As metas", "As pessoas", "As dores", "Os sonhos"],
+        "principle": "Sem diagnóstico não existe estratégia.",
+        "objective": "Descobrir onde a empresa está e para onde ela quer ir."
+      },
+      {
+        "letter": "O",
+        "name": "Organizar",
+        "quote": "Empresas organizadas crescem mais rápido.",
+        "description": "Transformamos informações em planejamento.",
+        "focus_areas": ["Estruturamos processos", "Organizamos metas", "Definimos indicadores", "Criamos prioridades", "Mapeamos oportunidades", "Construímos uma base sólida para crescer"],
+        "principle": "Direção antes de velocidade.",
+        "objective": "Criar direção."
+      },
+      {
+        "letter": "N",
+        "name": "Navegar",
+        "quote": "Quem não sabe para onde vai, desperdiça investimento.",
+        "description": "Nesta etapa desenhamos toda a estratégia.",
+        "focus_areas": ["Posicionamento", "Comunicação", "Marketing", "Comercial", "Funis", "CRM", "Jornada do cliente", "Aquisição", "Relacionamento", "Conversão", "Retenção"],
+        "principle": "Cada decisão possui um motivo.",
+        "objective": "Criar um plano inteligente para crescer."
+      },
+      {
+        "letter": "N",
+        "name": "Nutrir",
+        "quote": "Confiança gera vendas.",
+        "description": "Toda empresa precisa construir autoridade. É aqui que fortalecemos a marca.",
+        "focus_areas": ["Produzimos conteúdo", "Criamos campanhas", "Desenvolvemos ofertas", "Fortalecemos reputação", "Construímos relacionamento", "Fazemos o mercado lembrar daquela empresa"],
+        "principle": "Confiança é construída, não anunciada.",
+        "objective": "Gerar desejo."
+      },
+      {
+        "letter": "E",
+        "name": "Executar",
+        "quote": "Estratégia sem execução é apenas uma ideia.",
+        "description": "Agora tiramos tudo do papel.",
+        "focus_areas": ["Campanhas", "Landing Pages", "Automação", "CRM", "Anúncios", "SEO", "Redes sociais", "Google", "Meta", "WhatsApp", "Prospecção", "Treinamentos"],
+        "principle": "Tudo alinhado ao planejamento.",
+        "objective": "Colocar a estratégia em prática."
+      },
+      {
+        "letter": "C",
+        "name": "Converter",
+        "quote": "Marketing só existe quando gera vendas.",
+        "description": "Toda ação precisa produzir resultado.",
+        "focus_areas": ["Leads", "Conversões", "CAC", "ROI", "ROAS", "Receita", "Ticket médio", "Taxa de fechamento"],
+        "principle": "Acompanhamos cada indicador. Otimizamos continuamente.",
+        "objective": "Transformar oportunidades em faturamento."
+      },
+      {
+        "letter": "T",
+        "name": "Transformar",
+        "quote": "Crescimento exige evolução constante.",
+        "description": "Nenhuma empresa permanece competitiva fazendo sempre a mesma coisa. Depois dos resultados iniciais, buscamos novas oportunidades.",
+        "focus_areas": ["Novos mercados", "Novos produtos", "Novos canais", "Novas estratégias"],
+        "principle": "O crescimento nunca termina.",
+        "objective": "Levar a empresa para um novo nível."
+      },
+      {
+        "letter": "A",
+        "name": "Acelerar",
+        "quote": "O crescimento deixa de ser um objetivo e passa a ser um processo.",
+        "description": "Depois que tudo está conectado, a empresa passa a crescer de forma previsível.",
+        "focus_areas": ["Marketing", "Vendas", "Equipe", "Indicadores", "Processos", "Tecnologia"],
+        "outcomes": ["Mais vendas", "Mais lucro", "Mais organização", "Mais valor de mercado"],
+        "principle": "Esse é o verdadeiro propósito da Connecta Group.",
+        "objective": "Escalar resultados de forma sustentável."
+      }
+    ]
+  },
+  "copy_philosophy": {
+    "intro": "Toda comunicação da Connecta Group deve seguir cinco princípios.",
+    "principles": [
+      {
+        "name": "Clareza",
+        "definition": "Se o cliente precisar reler, a mensagem falhou.",
+        "how_to_apply": "Frases curtas. Uma ideia por frase. Sem jargão técnico sem explicação. Se o leitor não entende de primeira, reescreva.",
+        "example": {
+          "before": "Implementamos uma abordagem multifacetada de omnichannel para otimizar touchpoints ao longo do funil.",
+          "after": "Organizamos sua empresa para vender em todos os canais, sem perder nenhum cliente pelo caminho."
+        }
+      },
+      {
+        "name": "Valor",
+        "definition": "Antes de vender qualquer serviço, mostramos por que ele é importante.",
+        "how_to_apply": "Explique o problema antes da solução. Mostre a consequência de não agir. Só depois apresente o serviço.",
+        "example": {
+          "before": "Contrate nossa gestão de tráfego.",
+          "after": "Anúncio sem estratégia por trás só gera cliques. Gestão de tráfego conectada a um funil bem definido gera clientes."
+        }
+      },
+      {
+        "name": "Autoridade",
+        "definition": "Não convencemos pelo exagero. Convencemos pelo conhecimento.",
+        "how_to_apply": "Substitua adjetivos por explicações. Troque 'somos os melhores' por 'aqui está como pensamos e por quê'. Cite o método, o raciocínio, o processo.",
+        "example": {
+          "before": "Somos a agência mais completa do mercado.",
+          "after": "Aplicamos o Método CONNECTA™: 8 etapas que conectam marketing, vendas e gestão em um único sistema de crescimento."
+        }
+      },
+      {
+        "name": "Resultado",
+        "definition": "Nunca falamos apenas do serviço. Falamos do impacto que ele gera.",
+        "how_to_apply": "Toda entrega deve ser traduzida em consequência de negócio: mais vendas, mais previsibilidade, menos desperdício, mais organização.",
+        "example": {
+          "before": "Fazemos gestão de redes sociais.",
+          "after": "Transformamos suas redes sociais em um canal que gera reconhecimento de marca e leads qualificados todos os meses."
+        }
+      },
+      {
+        "name": "Ação",
+        "definition": "Toda comunicação leva o cliente para o próximo passo.",
+        "how_to_apply": "Termine com um caminho claro: agendar diagnóstico, responder uma pergunta, clicar em um link. Nunca deixe a mensagem em aberto.",
+        "example": {
+          "before": "Isso é o que fazemos.",
+          "after": "Quer descobrir onde sua empresa está perdendo vendas? Agende um diagnóstico com a Connecta Group."
+        }
+      }
+    ]
+  },
+  "guiding_question": {
+    "question": "Essa mensagem aproxima o cliente de uma decisão?",
+    "rule": "Antes de publicar qualquer conteúdo, responder a essa pergunta. Se não aproxima, ela precisa ser reescrita."
+  },
+  "positioning": {
+    "statement": "Não somos uma agência de marketing. Também não somos apenas uma consultoria. Somos parceiros estratégicos de crescimento.",
+    "we_connect": ["Estratégia", "Pessoas", "Processos", "Tecnologia", "Marketing", "Vendas"],
+    "we_are_not": [
+      "Uma agência de marketing tradicional, focada só em anúncios e posts.",
+      "Uma consultoria que entrega relatório e diagnóstico e depois some.",
+      "Uma fórmula genérica aplicada da mesma forma a qualquer empresa."
+    ],
+    "closing": "Para que empresas alcancem resultados que antes pareciam distantes."
+  },
+  "signature": {
+    "brand": "Connecta Group",
+    "tagline": "Conectando estratégia, marketing e vendas para acelerar o crescimento das empresas."
+  },
+  "visual_identity": {
+    "concept": "O monograma une as iniciais da marca em um único traço diagonal contínuo — o mesmo corte que forma as letras também desenha uma seta ascendente, unindo dois símbolos visuais ao propósito da marca: conexão e crescimento.",
+    "logo": {
+      "clear_space": "Mantenha ao redor da marca um espaço livre mínimo equivalente à largura do traço diagonal central. Nenhum texto, borda ou elemento gráfico deve invadir essa área.",
+      "minimum_size": "24px de altura em telas digitais; 10mm em material impresso.",
+      "versions": [
+        {
+          "name": "Principal",
+          "file": "logo.png",
+          "background": "Azul Connecta (#144C99) sólido, mark em branco",
+          "usage": "Versão padrão da marca. Use sempre que houver um fundo azul-marinho sólido: avatares, ícones de app, capas de documentos, redes sociais, favicons."
+        },
+        {
+          "name": "Reverso",
+          "file": "logo-reverso.png",
+          "background": "Branco sólido, mark em Azul Connecta (#144C99)",
+          "usage": "Para aplicações sobre fundos claros: papelaria, documentos impressos, cabeçalhos de e-mail, seções brancas de site."
+        },
+        {
+          "name": "Marca isolada (branca, fundo transparente)",
+          "file": "logo-marca-branca.png",
+          "background": "Transparente, mark em branco",
+          "usage": "Versão flexível para sobrepor a fotos ou a qualquer fundo escuro ou colorido. Nunca usar sobre fundos claros — perde contraste."
+        }
+      ],
+      "donts": [
+        "Não distorcer, esticar, inclinar ou rotacionar a marca.",
+        "Não recolorir fora das três versões oficiais.",
+        "Não aplicar a versão principal ou reversa sobre fundos de baixo contraste.",
+        "Não adicionar sombras, contornos, brilho ou efeitos 3D.",
+        "Não recriar o monograma com outra tipografia, espessura ou ângulo de corte."
+      ]
+    },
+    "color_palette": [
+      { "name": "Azul Connecta", "hex": "#144C99", "role": "Cor primária da marca", "usage": "Fundos institucionais, cabeçalhos, hero de LP, elementos estruturais. Extraída diretamente do logotipo oficial." },
+      { "name": "Azul Profundo", "hex": "#0B2F63", "role": "Primária — variação escura", "usage": "Gradientes, estados de hover, textos ou fundos que exigem mais contraste que o Azul Connecta." },
+      { "name": "Azul Noite", "hex": "#081F45", "role": "Primária — variação mais escura", "usage": "Fundo de hero em telas grandes, rodapés, fundos institucionais de maior peso visual." },
+      { "name": "Tinta", "hex": "#10192B", "role": "Texto principal", "usage": "Textos de corpo e títulos sobre fundo claro." },
+      { "name": "Neutro Médio", "hex": "#57647D", "role": "Texto secundário", "usage": "Legendas, metadados, texto de apoio." },
+      { "name": "Linha", "hex": "#DDE4F0", "role": "Bordas e divisórias", "usage": "Bordas de cards, tabelas e separadores." },
+      { "name": "Fundo Suave", "hex": "#F3F6FC", "role": "Fundo neutro", "usage": "Fundos de seções alternadas, cards e blocos de destaque (callouts)." }
+    ],
+    "typography": {
+      "heading_font": { "name": "Space Grotesk", "weights": [500, 600, 700], "usage": "Títulos, headlines e destaques. Ecoa o traço geométrico e técnico do monograma." },
+      "body_font": { "name": "Inter", "weights": [400, 500, 600], "usage": "Textos corridos, parágrafos, listas e UI — alta legibilidade em qualquer tamanho de tela." },
+      "fallback_stack": "Quando as fontes acima não estiverem disponíveis, usar a pilha padrão do sistema (Segoe UI, Arial, sans-serif)."
+    },
+    "application_notes": [
+      "A LP institucional deve abrir com um hero em Azul Profundo ou Azul Noite, headline em Space Grotesk branco, e um único CTA em Azul Connecta ou branco sólido — sem introduzir outras cores.",
+      "Use o traço diagonal do monograma como elemento gráfico recorrente: divisores de seção, marcas d'água sutis, transições entre blocos.",
+      "A paleta é intencionalmente monocromática (tons de azul + neutros). Não introduzir cores de destaque adicionais (laranja, verde, amarelo etc.) em nenhuma peça derivada deste manual.",
+      "Contraste e hierarquia devem ser construídos com peso tipográfico, espaço em branco e variação de tom de azul — não com cores concorrentes."
+    ]
+  },
+  "voice_and_tone": {
+    "personality_traits": [
+      "Estratégico — fala como quem pensa antes de agir.",
+      "Direto — vai ao ponto, sem enrolação.",
+      "Seguro, sem arrogância — autoridade pelo conhecimento, não pelo exagero.",
+      "Didático — explica o raciocínio, não só o resultado.",
+      "Consultivo — soa como um parceiro, não como um vendedor.",
+      "Sem exageros — evita superlativos vazios e promessas milagrosas."
+    ],
+    "dos": [
+      "Usar frases curtas e diretas.",
+      "Explicar o 'porquê' antes do 'o quê'.",
+      "Usar contrastes ('X não resolve Y') para evidenciar a importância da estratégia.",
+      "Fazer perguntas que levam o leitor a se autoavaliar.",
+      "Nomear o Método CONNECTA™ sempre que fizer sentido, para reforçar autoridade.",
+      "Terminar com uma ação clara."
+    ],
+    "donts": [
+      "Prometer resultados garantidos, imediatos ou milagrosos.",
+      "Usar jargão de marketing sem explicação, a menos que o público já domine o termo.",
+      "Usar superlativos vazios ('o melhor', 'incrível', 'revolucionário') sem prova ou explicação.",
+      "Focar na ferramenta ou tática antes da estratégia.",
+      "Escrever parágrafos longos — preferir frases curtas em sequência.",
+      "Copiar o tom de urgência agressiva típico de infoprodutos ('só até hoje', 'últimas vagas')."
+    ],
+    "sentence_rules": [
+      "Prefira frases de uma linha a parágrafos densos.",
+      "Uma ideia por frase.",
+      "Use contraste e repetição estrutural para criar ritmo (ex.: 'Antes de acelerar, organizamos. Antes de investir, planejamos. Antes de vender, entendemos.').",
+      "Evite conectivos desnecessários; prefira frases curtas separadas por ponto final."
+    ]
+  },
+  "vocabulary": {
+    "preferred_words": ["estratégia", "método", "processo", "conexão / conectar", "crescimento", "previsibilidade", "organização", "execução", "diagnóstico", "direção", "resultado", "autoridade", "confiança"],
+    "avoid_words": ["fórmula mágica", "milagre", "do dia para a noite", "garantido", "o segredo que ninguém conta", "exclusivo (sem explicar o porquê)", "revolucionário", "bombástico"],
+    "banned_claims": [
+      "Resultados garantidos.",
+      "Multiplique seu faturamento em X dias.",
+      "Fórmula secreta para vender mais.",
+      "Sem esforço, sem risco."
+    ]
+  },
+  "channel_guidelines": {
+    "ads": {
+      "goal": "Interromper o padrão com uma verdade incômoda sobre estratégia, não com desconto ou urgência artificial.",
+      "structure": "Gancho (crença errada ou dor) → Contraste (o que realmente resolve) → Prova/raciocínio (método) → Chamada para diagnóstico.",
+      "tone_notes": "Direto, consultivo, sem excesso de emojis, sem caixa alta para gritar.",
+      "example_headline": "Anúncio não vende. Estratégia por trás do anúncio, sim."
+    },
+    "social_media": {
+      "goal": "Construir autoridade através de raciocínio, não de frases motivacionais genéricas.",
+      "structure": "Afirmação contra-intuitiva → Explicação em 3-4 frases curtas → Conexão com o Método CONNECTA™ → Pergunta ou CTA leve.",
+      "tone_notes": "Educativo. Pode usar listas e contrastes. Evitar tom de 'coach de sucesso'."
+    },
+    "email": {
+      "goal": "Nutrir com raciocínio estratégico, preparando o lead para uma conversa comercial.",
+      "structure": "Assunto direto e específico → Abertura com uma dor ou crença comum → Argumento → Prova/raciocínio → CTA único e claro.",
+      "tone_notes": "Um CTA por e-mail. Nunca mais de um pedido de ação."
+    },
+    "website_landing_page": {
+      "goal": "Traduzir o Método CONNECTA™ em clareza sobre o que a empresa recebe e por quê.",
+      "structure": "Headline de dor/promessa realista → Sub-headline explicando o mecanismo (método) → Prova/raciocínio → Etapas do método → CTA de diagnóstico.",
+      "tone_notes": "Sem enrolação. Cada seção deve responder à Pergunta-Guia."
+    },
+    "sales_proposals": {
+      "goal": "Demonstrar diagnóstico real do negócio do cliente, não um pacote genérico.",
+      "structure": "Diagnóstico específico do cliente → Onde ele está perdendo dinheiro ou oportunidade → Caminho proposto (etapas do método aplicáveis) → Resultado esperado → Próximo passo.",
+      "tone_notes": "Consultivo, específico, baseado em dados coletados na etapa Conhecer."
+    },
+    "whatsapp_commercial": {
+      "goal": "Soar como um consultor que entende o negócio, não como um vendedor de plantão.",
+      "structure": "Mensagem curta, com pergunta específica sobre o negócio do lead — sem 'tudo bem?' genérico.",
+      "tone_notes": "Sem excesso de emojis, sem múltiplos pontos de exclamação, sem pressão de urgência artificial."
+    }
+  },
+  "copy_structures": {
+    "headline_formulas": [
+      "[Tática comum] não resolve [problema real]. [Solução real] resolve.",
+      "Sua empresa não tem um problema de [marketing / vendas / leads]. Tem um problema de [estratégia / processo / direção].",
+      "Antes de [ação cara ou comum], [ação estratégica].",
+      "[Número/dado] empresas erram ao achar que [crença comum]. Veja o que realmente funciona."
+    ],
+    "cta_bank": [
+      "Agende um diagnóstico com a Connecta Group.",
+      "Descubra onde sua empresa está perdendo vendas.",
+      "Fale com um estrategista da Connecta Group.",
+      "Veja se sua empresa está pronta para escalar.",
+      "Entenda o Método CONNECTA™ aplicado ao seu negócio."
+    ],
+    "hook_bank": [
+      "Toda empresa pode vender mais.",
+      "Não existem empresas sem potencial. Existem empresas sem direção.",
+      "Marketing sem estratégia gera movimento. Estratégia conectada gera crescimento.",
+      "Se sua empresa investe em marketing e não vê retorno, o problema pode não ser o marketing."
+    ]
+  },
+  "pre_publish_checklist": [
+    "A mensagem responde 'sim' à Pergunta-Guia (aproxima o cliente de uma decisão)?",
+    "Está clara na primeira leitura (princípio Clareza)?",
+    "Mostra o valor antes de pedir algo (princípio Valor)?",
+    "Convence pelo raciocínio, não pelo exagero (princípio Autoridade)?",
+    "Fala do impacto no negócio, não só do serviço (princípio Resultado)?",
+    "Termina com uma ação clara (princípio Ação)?",
+    "Evita promessas milagrosas, garantias ou urgência artificial?",
+    "É coerente com o Método CONNECTA™ e o posicionamento da marca?"
+  ],
+  "glossary": [
+    { "term": "Método CONNECTA™", "definition": "Framework proprietário da Connecta Group com 8 etapas — Conhecer, Organizar, Navegar, Nutrir, Executar, Converter, Transformar, Acelerar — que conecta marketing, vendas, processos e gestão." },
+    { "term": "Pergunta-Guia", "definition": "Pergunta obrigatória feita antes de publicar qualquer copy: 'Essa mensagem aproxima o cliente de uma decisão?'." },
+    { "term": "CAC", "definition": "Custo de Aquisição de Cliente — quanto custa conquistar cada novo cliente." },
+    { "term": "ROI", "definition": "Retorno sobre Investimento." },
+    { "term": "ROAS", "definition": "Retorno sobre Investimento em Publicidade (Return on Ad Spend)." },
+    { "term": "Funil", "definition": "Caminho estruturado que um lead percorre desde o primeiro contato até a conversão em cliente." },
+    { "term": "Jornada do cliente", "definition": "Conjunto de etapas e pontos de contato que um cliente vive com a marca, da descoberta à fidelização." }
+  ]
+}
