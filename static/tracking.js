@@ -95,6 +95,25 @@
 
   document.querySelectorAll("form.lead-form").forEach(handleLeadForm);
 
+  // Links diretos de WhatsApp (LPs sem formulario). O href no HTML ja funciona
+  // sozinho; aqui apenas reescrevemos a mensagem anexando a origem/UTMs.
+  document.querySelectorAll("a[data-wa]").forEach(function (link) {
+    var phone = (link.getAttribute("data-wa") || "").replace(/\D/g, "");
+    if (!phone) return;
+
+    var lines = [link.getAttribute("data-wa-msg") || "Ola! Quero agendar meu diagnostico gratuito."];
+    var utmLines = [];
+    for (var utmKey in utms) utmLines.push(utmKey + "=" + utms[utmKey]);
+    if (utmLines.length) {
+      lines.push("");
+      lines.push("_Origem: " + utmLines.join(" | ") + "_");
+    }
+
+    link.setAttribute("href", "https://wa.me/" + phone + "?text=" + encodeURIComponent(lines.join("\n")));
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener");
+  });
+
   document.querySelectorAll("[data-year]").forEach(function (element) {
     element.textContent = new Date().getFullYear();
   });

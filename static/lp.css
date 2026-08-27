@@ -1518,3 +1518,123 @@ h1, h2, h3, p, li, a, button, summary {
     font-size: 16px;
   }
 }
+
+/* ===================== Componentes extras (LP Corretor) =====================
+   Ficam no fim do arquivo de proposito: precisam vencer as media queries acima.
+   Sao classes novas, entao nao afetam as LPs Geral e Imobiliaria. */
+
+/* Headline longa: mais largura e um passo menor de tipografia */
+.hero-content.is-wide { width: min(760px, 100%); }
+.hero-title.is-long {
+  max-width: 18ch;
+  font-size: clamp(2.5rem, 4.5vw, 4.4rem);
+  line-height: 1;
+}
+
+/* Checklist de tags do hero */
+.hero-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 30px;
+  list-style: none;
+}
+.hero-tags li {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 0 18px 0 40px;
+  border: 1px solid rgba(255, 255, 255, .2);
+  border-radius: var(--pill);
+  background: rgba(255, 255, 255, .08);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  color: rgba(255, 255, 255, .92);
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .11em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  transition: transform .22s var(--ease), background .22s var(--ease), border-color .22s var(--ease);
+}
+.hero-tags li:hover {
+  transform: translateY(-3px);
+  background: rgba(255, 255, 255, .14);
+  border-color: rgba(159, 193, 242, .45);
+}
+.hero-tags li::before {
+  content: "";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  width: 17px;
+  height: 17px;
+  margin-top: -8.5px;
+  border-radius: 6px;
+  background: linear-gradient(135deg, var(--blue-700), var(--blue-600));
+}
+.hero-tags li::after {
+  content: "";
+  position: absolute;
+  left: 19px;
+  top: 50%;
+  width: 7px;
+  height: 4px;
+  margin-top: -3px;
+  border-left: 2px solid var(--white);
+  border-bottom: 2px solid var(--white);
+  transform: rotate(-45deg);
+}
+
+/* Bloco de contato direto por WhatsApp (substitui o formulario) */
+.btn svg { width: 20px; height: 20px; flex: none; }
+.btn-wa {
+  color: var(--white);
+  background: linear-gradient(135deg, #128c46, var(--green) 62%, #4ce88a);
+  box-shadow: 0 20px 46px rgba(18, 140, 70, .34);
+}
+.btn-wa:hover { box-shadow: 0 28px 62px rgba(18, 140, 70, .44); }
+.wa-card .btn { margin-top: 24px; }
+.wa-note {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  margin-top: 14px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+.wa-note::before {
+  content: "";
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 4px rgba(37, 211, 102, .2);
+}
+
+@media (max-width: 760px) {
+  .hero-title.is-long {
+    max-width: 12ch;
+    font-size: clamp(2.05rem, 8.4vw, 2.8rem);
+  }
+  .hero-content.is-wide { max-width: 340px; }
+  .hero-tags {
+    width: 100%;
+    max-width: 340px;
+    gap: 8px;
+    margin-top: 24px;
+  }
+  .hero-tags li {
+    min-height: 34px;
+    padding: 0 14px 0 36px;
+    font-size: 10px;
+    letter-spacing: .08em;
+  }
+  .hero-tags li::before { left: 12px; }
+  .hero-tags li::after { left: 17px; }
+}
