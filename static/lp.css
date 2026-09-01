@@ -1331,6 +1331,13 @@ h1, h2, h3, p, li, a, button, summary {
   color: rgba(255, 255, 255, .5);
   font-size: 12px;
 }
+.footer-legal {
+  margin-top: 14px;
+  color: rgba(255, 255, 255, .38);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: .001ms !important;
